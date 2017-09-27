@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">4Nesia Workshop</string>
+    <string name="my_name">Baso Ahmad Muflih</string>
+    <string name="info">This is not your username or pin. This name will be visible to your WhatsApp contacts.</string>
+    <string name="about">About and phone number</string>
+    <string name="status">Available</string>
+    <string name="phone_number">+62 823-6324-2545</string>
+</resources>
